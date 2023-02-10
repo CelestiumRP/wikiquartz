@@ -12,7 +12,7 @@ The majority of configuration can be found under `data/config.yaml`. An annotate
 
 ```yaml {title="data/config.yaml"}
 # The name to display in the footer
-name: Jacky Zhao
+name: CelestiumRP
 
 # whether to globally show the table of contents on each page
 # this can be turned off on a per-page basis by adding this to the
@@ -50,11 +50,11 @@ enableFooter: true
 enableContextualBacklinks: true
 
 # whether to show a section of recent notes on the home page
-enableRecentNotes: false
+enableRecentNotes: true
 
 # whether to display an 'edit' button next to the last edited field
 # that links to github
-enableGitHubEdit: true
+enableGitHubEdit: false
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 
 # whether to render mermaid diagrams
@@ -70,19 +70,18 @@ search:
 
 # page description used for SEO
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  CelestiumRP & Worldbuilding Wiki. The best RP server for Minecraft!
 
 # title of the home page (also for SEO)
 page_title:
-  "🪴 Quartz 3.3"
+  "Celestium RP&Worldbuilding Wiki"
 
 # links to show in the footer
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
+  - link_name: YouTube
+    link: www.youtube.com/celestiumrp
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/celestiumrp
 ```
 
 ### Code Block Titles
