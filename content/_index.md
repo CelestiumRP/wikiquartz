@@ -14,3 +14,5 @@ The official Celestium RP Wiki
 ## [[Towns/Towns Index]]
 
 ## [[Nations/Nations Index]]
+
+## Obsidian MarkDown Help[https://help.obsidian.md/How+to/Use+callouts]
