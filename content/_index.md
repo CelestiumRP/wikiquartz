@@ -1,6 +1,6 @@
 ---
 title: CelestiumRP Wiki
-enableToc: true
+enableToc: false
 ---
 
 The official Celestium RP Wiki
@@ -9,12 +9,10 @@ The official Celestium RP Wiki
 2. Does not have much
 3. But it is going to be absolutely aweomse once it get's up and running
    
-   # [[Celestium Calendar]]
+# [[Celestium Calendar]]
 
 ## [[Religions/Religions Index]]
 
 ## [[Towns/Towns Index]]
 
 ## [[Nations/Nations Index]]
-
-## Obsidian MarkDown Help[https://help.obsidian.md/How+to/Use+callouts]
