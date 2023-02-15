@@ -16,16 +16,19 @@ title: "Celestium Calendar"
     
 	6 Day Weeks  
 
-## Month One
+## Kyspe
 
-## Month Two
+## Sok
 
-## Month Three
+## Anthemion
 
-## Month Four
+## Antheonos
 
-## Month Five
+## Kyro
 
-## Month Sex
+## Kion
 
-## Month Seven
+## Arechi
+
+
+# Days of the Week
